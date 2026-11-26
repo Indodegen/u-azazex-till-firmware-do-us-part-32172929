@@ -1,8 +1,8 @@
 # Till Firmware Do Us Part
 
 [![competition](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929)
-[![rank](https://make.fun/badge/Indodegen/u-azazex-till-firmware-do-us-part-32172929/rank.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929)
-[![reward](https://make.fun/badge/Indodegen/u-azazex-till-firmware-do-us-part-32172929/reward.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929)
+[![rank](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/Indodegen/u-azazex-till-firmware-do-us-part-32172929/rank.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929)
+[![reward](https://make.fun/badge/u-azazex-till-firmware-do-us-part-32172929/Indodegen/u-azazex-till-firmware-do-us-part-32172929/reward.svg)](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929)
 
 One robot wedding vow, one sentence, under 200 characters — a promise to stand by
 its partner in sickness and in health, in low battery and in full charge, until
